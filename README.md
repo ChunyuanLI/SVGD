@@ -17,5 +17,6 @@
 
 
 ### Link
- -- For official implementation in Matlab and Theano, please visit the authors' project website - [SVGD](http://www.cs.dartmouth.edu/~dartml/project.html?p=vgd).
- -- Paper: Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm, NIPS2017 [arXiv](https://arxiv.org/abs/1608.04471).
+  -- For official implementation in Matlab and Theano, please visit the authors' project website - [SVGD](http://www.cs.dartmouth.edu/~dartml/project.html?p=vgd).
+
+  -- Paper: Stein Variational Gradient Descent: A General Purpose Bayesian Inference Algorithm, NIPS2017 [arXiv](https://arxiv.org/abs/1608.04471).
