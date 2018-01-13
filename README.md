@@ -7,8 +7,7 @@
  ![](/results/toy1.png) |  
  :-------------------------:|
   ![](/results/toy2.png) |  
-
-<center>
+</center>
 
 --
 
